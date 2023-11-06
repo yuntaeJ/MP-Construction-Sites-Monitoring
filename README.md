@@ -2,7 +2,7 @@
 
 This the official repo of the paper "Motion Prediction at Construction Sites: A Computer Vision Approach to Enhanced Safety Management and Automation in Multi-Camera Systems". The code will be publically opened after the paper is published.
 
-Authors: Yuntae Jeona, Dai Quoc Tranb, Almo Senja Kulinana, Taeheon Kimc, Minsoo Parkd and Seunghee Park
+Authors: Yuntae Jeon, Dai Quoc Tran, Almo Senja Kulinan, Taeheon Kim, Minsoo Park and Seunghee Park
 
 ## Proposed Approach
 
