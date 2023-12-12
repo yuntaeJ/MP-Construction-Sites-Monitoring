@@ -8,8 +8,6 @@ Authors: Yuntae Jeon, Dai Quoc Tran, Almo Senja Kulinan, Taeheon Kim, Minsoo Par
 
 ![image](figures/proposed1.png)
 
-![image](figures/proposed2.png)
-
 ## Environment
 
 We run on 2 NVIDIA A6000 GPUs.
